@@ -31,7 +31,7 @@ Experience
   * Responsible for algorithm research and infrastructure design of scientific-computing-oriented AI large models and power system digital twins.
 
 * 2024.5—2024.9: Ant Group
-  * Serving as a risk control Intern.
+  * Serving as a Risk Control Intern.
   * Responsible for the design and development of financial risk management strategies.
 
 * 2022.10—2023.10: Guorui Digital Intelligence Technology Co., Ltd.
