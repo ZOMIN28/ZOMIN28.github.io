@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Zuomin Qu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I have a French Bulldog. I am an Atlético Madrid fan."
   location         : "CN"
-  employer         : "SunYat-Sen University"
+  employer         : "Sun Yat-Sen University"
   uri              : # URL
   email            : "quzm@mail2.sysu.edu.cn" 
 
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0008-9321-5065"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
