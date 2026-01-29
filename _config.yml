@@ -13,7 +13,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Zuomin Qu"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://ZOMIN28.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://ZOMIN28.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -29,7 +29,7 @@ author:
   bio              : "The avatar is my bulldog. I am an Atlético Madrid fan."
   location         : "CN"
   employer         : "Sun Yat-Sen University"
-  uri              : https://ZOMIN28.github.io
+  uri              : "https://ZOMIN28.github.io"
   email            : "quzm@mail2.sysu.edu.cn" 
 
   # Academic websites
