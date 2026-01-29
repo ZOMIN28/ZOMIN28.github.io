@@ -45,6 +45,13 @@ Experience
 
 Publications
 ======
+"LoRA Patching: Exposing the Fragility of Proactive Defenses Against Deepfakes",  
+**Zuomin Qu**, Yimao Guo, Qianyue Hu, Wei Lu,
+*IEEE Signal Processing Letters (SPL), 2026*
+
+[Paper](https://ieeexplore.ieee.org/document/11298389) · 
+[arXiv](https://arxiv.org/abs/2510.03747) · 
+[Code](https://github.com/ZOMIN28/LoRA-Patching)
 
 
 
