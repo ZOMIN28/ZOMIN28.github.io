@@ -9,7 +9,7 @@ redirect_from:
 
 I am Zuomin Qu (瞿左珉). I am currently a researcher at the State Key Laboratory of HVDC, China Southern Power Grid, Guangzhou. My work focuses on AI, LLM, and smart grids.
 
-I received the B.S. degree from the Central South University in 2022, and the M.S. degree from the School of Computer Science and Engineering, Sun Yat-sen University in 2025.
+I received the M.S. degree from the School of Computer Science and Engineering, Sun Yat-sen University in 2025, and the B.S. degree from the Central South University in 2022.
 
 My research interests include artificial intelligence, AI security and safety, and AI for science.
 
