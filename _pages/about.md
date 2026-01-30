@@ -45,11 +45,11 @@ Experience
 
 Publications
 ======
-* "DF-RAP: A Robust Adversarial Perturbation for Defending Against Deepfakes in Real-World Social Network Scenarios", **Zuomin Qu**, Zuping Xi, Wei Lu\*, Xiangyang Luo, Qian Wang, Bin Li, *IEEE Transactions on Information Forensics and Security (TIFS), 2024* (CCF-A)
-  * [Paper](https://ieeexplore.ieee.org/document/10458678) · [Github](https://github.com/ZOMIN28/DF_RAP)
-
 * "ID-Guard: A Universal Framework for Combating Facial Manipulation via Breaking Identification", **Zuomin Qu**, Wei Lu\*, Xiangyang Luo, Qian Wang, Xiaochun Cao, *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025* (CCF-A)
   * [Paper](https://ieeexplore.ieee.org/document/11185226) · [arXiv](https://arxiv.org/pdf/2409.13349)
+
+* "DF-RAP: A Robust Adversarial Perturbation for Defending Against Deepfakes in Real-World Social Network Scenarios", **Zuomin Qu**, Zuping Xi, Wei Lu\*, Xiangyang Luo, Qian Wang, Bin Li, *IEEE Transactions on Information Forensics and Security (TIFS), 2024* (CCF-A)
+  * [Paper](https://ieeexplore.ieee.org/document/10458678) · [Github](https://github.com/ZOMIN28/DF_RAP)
 
 * "LoRA Patching: Exposing the Fragility of Proactive Defenses Against Deepfakes", **Zuomin Qu**, Yimao Guo, Qianyue Hu, Wei Lu\*, *IEEE Signal Processing Letters (SPL), 2026* (CCF-C)
   * [Paper](https://ieeexplore.ieee.org/document/11298389) · [arXiv](https://arxiv.org/abs/2510.03747) · [Github](https://github.com/ZOMIN28/LoRA-Patching)
