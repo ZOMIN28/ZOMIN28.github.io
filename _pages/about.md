@@ -35,11 +35,11 @@ Experience
   * Responsible for the design and development of financial risk management strategies.
 
 * 2022.10—2023.10: Guorui Digital Intelligence Technology Co., Ltd.
-  * Serving as a Algorithm Researcher Intern.
+  * Serving as a AI Researcher Intern.
   * Responsible for research on customized AI face generation and fine-tuning, as well as AI Security and Defense.
 
 * 2021.4—2021.10: Institute of Automation, Chinese Academy of Sciences
-  * Serving as a Algorithm Researcher Intern.
+  * Serving as a AI Researcher Intern.
   * Responsible for research on drug molecule generation based on reinforcement learning and few-shot learning.
 
 
@@ -65,7 +65,7 @@ Publications
   * [Paper](https://ieeexplore.ieee.org/document/10813422)
 
 * "Anti-Inpainting: A Proactive Defense against Malicious Diffusion-based Inpainters under Unknown Conditions", Yimao Guo, **Zuomin Qu**, Wei Lu\*, Xiangyang Luo, *2025*
-  * [arXiv](https://arxiv.org/abs/2510.03747)
+  * [arXiv](https://arxiv.org/abs/2505.13023)
 
 Teaching
 ======
