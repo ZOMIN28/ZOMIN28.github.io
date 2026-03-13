@@ -95,21 +95,120 @@ Publications
   </div>
 </div>
 
-* "LoRA Patching: Exposing the Fragility of Proactive Defenses Against Deepfakes", **Zuomin Qu**, Yimao Guo, Qianyue Hu, Wei Lu\*, *IEEE Signal Processing Letters (SPL), 2026* (CCF-C)
-  * [Paper](https://ieeexplore.ieee.org/document/11298389) · [arXiv](https://arxiv.org/abs/2510.03747) · [Github](https://github.com/ZOMIN28/LoRA-Patching)<span id="lora_patch_star"></span>
+<div class="paper">
+  <img src="/images/papers/lorapatching.png" class="paper-img">
+  
+  <div class="paper-text">
+  
+  <b>LoRA Patching: Exposing the Fragility of Proactive Defenses Against Deepfakes</b>
+  
+  <br>
+  
+  <b>Zuomin Qu</b>, Yimao Guo, Qianyue Hu, Wei Lu*
+  
+  <br>
+  
+  <i>IEEE Signal Processing Letters (SPL), 2026</i>
+  
+  <br>
+  
+  <a href="https://ieeexplore.ieee.org/document/11298389">Paper</a> · 
+  <a href="https://arxiv.org/abs/2510.03747">arXiv</a> · 
+  <a href="https://github.com/ZOMIN28/LoRA-Patching">Github</a> <span id="lora_star"></span>
+  
+  </div>
+</div>
 
-* "Overview of Deepfake Proactive Defense Techniques", **Zuomin Qu**, Qilin Yin, Ziqi Sheng, Junyan Wu, Bolin Zhang, Shangrong Yu, Wei Lu\*,  *Journal of Image and Graphics, 2024* (CCF-B)
-  * [Paper](https://www.cjig.cn/thesisDetails#10.11834/jig.230128&lang=zh)
-  * 2020-2024 Outstanding Paper Award of the Journal of Image and Graphics
+<div class="paper">
+  <img src="/images/papers/proactive.png" class="paper-img">
+  
+  <div class="paper-text">
+  
+  <b>Overview of Deepfake Proactive Defense Techniques</b>
+  
+  <br>
+  
+  <b>Zuomin Qu</b>, Qilin Yin, Ziqi Sheng, Junyan Wu, Bolin Zhang, Shangrong Yu, Wei Lu*
+  
+  <br>
+  
+  <i>Journal of Image and Graphics, 2024</i>
+  
+  <br>
+  
+  <a href="https://www.cjig.cn/thesisDetails#10.11834/jig.230128&lang=zh">Paper</a>
+  
+  <br>
+  
+  2020–2024 Outstanding Paper Award of the Journal of Image and Graphics
+  
+  </div>
+</div>
 
-* "DiRLoc: Disentanglement Representation Learning for Robust Image Forgery Localization", Ziqi Sheng, **Zuomin Qu**, Wei Lu\*, Xiaochun Cao, Jiwu Huang, *IEEE Transactions on Dependable and Secure Computing (TDSC), 2025* (CCF-A)
-  * [Paper](https://ieeexplore.ieee.org/document/10816138)
- 
-* "Invisible DNN Watermarking Against Model Extraction Attack", Zuping Xi, **Zuomin Qu**, Wei Lu\*, Xiangyang Luo, Xiaochun Cao, *IEEE Transactions on Cybernetics (TCYB), 2025* (CCF-B)
-  * [Paper](https://ieeexplore.ieee.org/document/10813422)
+<div class="paper">
+  <img src="/images/papers/DiRLoc.png" class="paper-img">
+  
+  <div class="paper-text">
+  
+  <b>DiRLoc: Disentanglement Representation Learning for Robust Image Forgery Localization</b>
+  
+  <br>
+  
+  Ziqi Sheng, <b>Zuomin Qu</b>, Wei Lu*, Xiaochun Cao, Jiwu Huang
+  
+  <br>
+  
+  <i>IEEE Transactions on Dependable and Secure Computing (TDSC), 2025</i>
+  
+  <br>
+  
+  <a href="https://ieeexplore.ieee.org/document/10816138">Paper</a>
+  
+  </div>
+</div>
 
-* "Anti-Inpainting: A Proactive Defense against Malicious Diffusion-based Inpainters under Unknown Conditions", Yimao Guo, **Zuomin Qu**, Wei Lu\*, Xiangyang Luo, *2025*
-  * [arXiv](https://arxiv.org/abs/2505.13023)
+<div class="paper">
+  <img src="/images/papers/watermark.png" class="paper-img">
+  
+  <div class="paper-text">
+  
+  <b>Invisible DNN Watermarking Against Model Extraction Attack</b>
+  
+  <br>
+  
+  Zuping Xi, <b>Zuomin Qu</b>, Wei Lu*, Xiangyang Luo, Xiaochun Cao
+  
+  <br>
+  
+  <i>IEEE Transactions on Cybernetics (TCYB), 2025</i>
+  
+  <br>
+  
+  <a href="https://ieeexplore.ieee.org/document/10813422">Paper</a>
+
+  </div>
+</div>
+
+<div class="paper">
+  <img src="/images/papers/anti.png" class="paper-img">
+  
+  <div class="paper-text">
+  
+  <b>Anti-Inpainting: A Proactive Defense against Malicious Diffusion-based Inpainters under Unknown Conditions</b>
+  
+  <br>
+  
+  Yimao Guo, <b>Zuomin Qu</b>, Wei Lu*, Xiangyang Luo
+  
+  <br>
+  
+  <i>arXiv, 2025</i>
+  
+  <br>
+  
+  <a href="https://arxiv.org/abs/2505.13023">arXiv</a>
+  </div>
+</div>
 
 ***
 
