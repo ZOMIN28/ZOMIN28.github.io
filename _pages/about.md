@@ -114,7 +114,7 @@ Publications
   
   <a href="https://ieeexplore.ieee.org/document/11298389">Paper</a> · 
   <a href="https://arxiv.org/abs/2510.03747">arXiv</a> · 
-  <a href="https://github.com/ZOMIN28/LoRA-Patching">Github</a> <span id="lora_star"></span>
+  <a href="https://github.com/ZOMIN28/LoRA-Patching">Github</a> <span id="lora_patch_star"></span>
   
   </div>
 </div>
@@ -186,6 +186,27 @@ Publications
   
   <a href="https://ieeexplore.ieee.org/document/10813422">Paper</a>
 
+  </div>
+</div>
+
+<div class="paper">
+  <img src="/images/papers/model.png" class="paper-img">
+  
+  <div class="paper-text">
+  
+  <b>Robust Model Watermarking Based on Adversarial Simulation</b>
+  
+  <br>
+  
+  Zuping Xi, <b>Zuomin Qu</b>, Wei Lu*, Wei Zhang, Xiangyang Luo, Hongtao Xiao
+  
+  <br>
+  
+  <i>Journal of Cybersecurity, 2024</i>
+  
+  <br>
+  
+  <a href="https://yhztjs.spacejournal.cn/en/article/id/8c0add35-ed59-4e17-ab20-ee90c3b21622">paper</a>
   </div>
 </div>
 
