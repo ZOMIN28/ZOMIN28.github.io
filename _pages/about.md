@@ -27,21 +27,25 @@ Education
 Experience
 ======
 **State Key Laboratory of HVDC, China Southern Power Grid**
+
 Researcher, 2025 – Present
 * Algorithm research on scientific-computing-oriented AI large models
 * AI infrastructure for power system digital twins
 
 **Ant Group**
+
 Risk Control Intern, 2024
 * Financial risk management strategy design
 * Fund management and control model development
 
 **Guorui Digital Intelligence Technology**
+
 AI Research Intern, 2022 – 2023
 * Customized AI face generation,  fine-grained editing and fine-tuning
 * AI Security and Defense
 
 **Institute of Automation, Chinese Academy of Sciences**
+
 AI Research Intern, 2021 - 2022
 * Drug molecule generation with RL and few-shot learning
 
