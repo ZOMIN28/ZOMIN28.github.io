@@ -41,3 +41,20 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+.paper{
+  display:flex;
+  margin-bottom:25px;
+}
+
+.paper-img{
+  width:160px;
+  height:auto;
+  margin-right:20px;
+  border-radius:6px;
+}
+
+.paper-text{
+  flex:1;
+}
