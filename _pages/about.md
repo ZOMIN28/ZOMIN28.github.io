@@ -13,6 +13,8 @@ I received the M.S. degree from the School of Computer Science and Engineering, 
 
 My research interests include VLM, AI security and safety, and AI for science.
 
+***
+
 Education 
 ======
 **Sun Yat-sen University**
@@ -23,6 +25,7 @@ Education
 * B.S. in Information Security, 2018 – 2022
 * Research on Deep Learning and AI Security
 
+***
 
 Experience
 ======
@@ -49,6 +52,7 @@ AI Research Intern, 2022 – 2023
 AI Research Intern, 2021 - 2022
 * Drug molecule generation with RL and few-shot learning
 
+***
 
 Publications
 ======
@@ -106,6 +110,8 @@ Publications
 
 * "Anti-Inpainting: A Proactive Defense against Malicious Diffusion-based Inpainters under Unknown Conditions", Yimao Guo, **Zuomin Qu**, Wei Lu\*, Xiangyang Luo, *2025*
   * [arXiv](https://arxiv.org/abs/2505.13023)
+
+***
 
 Teaching
 ======
