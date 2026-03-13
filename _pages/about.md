@@ -15,32 +15,35 @@ My research interests include VLM, AI security and safety, and AI for science.
 
 Education 
 ======
-* 2022.9—2025.7: Sun Yat-sen University, China
-  * M.S. degree.
-  * Focus on research in VLM, generative AI, and AI security.
- 
-* 2018.9—2022.7: Central South University, China
-  * B.S. degree.
-  * Focus on research in deep learning, information security, and AI security.
+**Sun Yat-sen University**
+* M.S. in Computer Science, 2022 – 2025
+* Research on VLM, Generative AI, and AI Security
+
+**Central South University**
+* B.S. in Information Security, 2018 – 2022
+* Research on Deep Learning and AI Security
 
 
 Experience
 ======
-* 2025.7—now: State Key Laboratory of HVDC, China Southern Power Grid
-  * Serving as a Researcher.
-  * Responsible for algorithm research and infrastructure design of scientific-computing-oriented AI large models and power system digital twins.
+**State Key Laboratory of HVDC, China Southern Power Grid**
+Researcher, 2025 – Present
+* Algorithm research on scientific-computing-oriented AI large models
+* AI infrastructure for power system digital twins
 
-* 2024.5—2024.9: Ant Group
-  * Serving as a Risk Control Intern.
-  * Responsible for the design and development of financial risk management strategies.
+**Ant Group**
+Risk Control Intern, 2024
+* Financial risk management strategy design
+* Fund management and control model development
 
-* 2022.10—2023.10: Guorui Digital Intelligence Technology Co., Ltd.
-  * Serving as an AI Researcher Intern.
-  * Responsible for research on customized AI face generation and fine-tuning, as well as AI Security and Defense.
+**Guorui Digital Intelligence Technology**
+AI Research Intern, 2022 – 2023
+* Customized AI face generation,  fine-grained editing and fine-tuning
+* AI Security and Defense
 
-* 2021.4—2021.10: Institute of Automation, Chinese Academy of Sciences
-  * Serving as an AI Researcher Intern.
-  * Responsible for research on drug molecule generation based on reinforcement learning and few-shot learning.
+**Institute of Automation, Chinese Academy of Sciences**
+AI Research Intern, 2021 - 2022
+* Drug molecule generation with RL and few-shot learning
 
 
 Publications
@@ -49,10 +52,10 @@ Publications
   * [Paper](https://ieeexplore.ieee.org/document/11185226) · [arXiv](https://arxiv.org/pdf/2409.13349)
 
 * "DF-RAP: A Robust Adversarial Perturbation for Defending Against Deepfakes in Real-World Social Network Scenarios", **Zuomin Qu**, Zuping Xi, Wei Lu\*, Xiangyang Luo, Qian Wang, Bin Li, *IEEE Transactions on Information Forensics and Security (TIFS), 2024* (CCF-A)
-  * [Paper](https://ieeexplore.ieee.org/document/10458678) · [Github](https://github.com/ZOMIN28/DF_RAP)
+  * [Paper](https://ieeexplore.ieee.org/document/10458678) · [Github](https://github.com/ZOMIN28/DF_RAP)<span id="df_rap_star"></span>
 
 * "LoRA Patching: Exposing the Fragility of Proactive Defenses Against Deepfakes", **Zuomin Qu**, Yimao Guo, Qianyue Hu, Wei Lu\*, *IEEE Signal Processing Letters (SPL), 2026* (CCF-C)
-  * [Paper](https://ieeexplore.ieee.org/document/11298389) · [arXiv](https://arxiv.org/abs/2510.03747) · [Github](https://github.com/ZOMIN28/LoRA-Patching)
+  * [Paper](https://ieeexplore.ieee.org/document/11298389) · [arXiv](https://arxiv.org/abs/2510.03747) · [Github](https://github.com/ZOMIN28/LoRA-Patching)<span id="lora_patch_star"></span>
 
 * "Overview of Deepfake Proactive Defense Techniques", **Zuomin Qu**, Qilin Yin, Ziqi Sheng, Junyan Wu, Bolin Zhang, Shangrong Yu, Wei Lu\*,  *Journal of Image and Graphics, 2024* (CCF-B)
   * [Paper](https://www.cjig.cn/thesisDetails#10.11834/jig.230128&lang=zh)
@@ -69,10 +72,31 @@ Publications
 
 Teaching
 ======
- * A Tutorial of AI Image Classification
-   * This basic tutorial covers model building, dataset processing, model training, model testing, and result analysis.
-   * [Bilibili](https://www.bilibili.com/video/BV1yT41177Lg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=caf66f8d100f1451c98c2401d8027bde) · [Github](https://github.com/ZOMIN28/ResNet18_Cifar10_95.46)
+**A Tutorial of AI Image Classification**
+* This basic tutorial covers model building, dataset processing, model training, model testing, and result analysis.
+* [Bilibili](https://www.bilibili.com/video/BV1yT41177Lg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=caf66f8d100f1451c98c2401d8027bde) · [Github](https://github.com/ZOMIN28/ResNet18_Cifar10_95.46)<span id="resnet_cifar_star"></span>
 
- * A Tutorial of Adversarial Attacks against Deep Neural Networks
-   * A basic tutorial about adversarial attacks. Through this tutorial, you can learn: 1) the implementation of gradient-based and generation-based adversarial attacks; 2) adversarial attacks on classification models and generative models; 3) the robustness and transferability of adversarial attacks.
-   * [Bilibili](https://www.bilibili.com/video/BV1C4AeePE4p/?spm_id_from=333.1387.homepage.video_card.click&vd_source=caf66f8d100f1451c98c2401d8027bde) · [Github](https://github.com/ZOMIN28/adversarial_attack_tutorial)
+**A Tutorial of Adversarial Attacks against Deep Neural Networks**
+* A basic tutorial about adversarial attacks. Through this tutorial, you can learn: 1) the implementation of gradient-based and generation-based adversarial attacks; 2) adversarial attacks on classification models and generative models; 3) the robustness and transferability of adversarial attacks.
+* [Bilibili](https://www.bilibili.com/video/BV1C4AeePE4p/?spm_id_from=333.1387.homepage.video_card.click&vd_source=caf66f8d100f1451c98c2401d8027bde) · [Github](https://github.com/ZOMIN28/adversarial_attack_tutorial)<span id="adv_star"></span>
+
+<script>
+async function loadStars() {
+  const repos = [
+    ["ZOMIN28","DF_RAP","df_rap_star"],
+    ["ZOMIN28","LoRA-Patching","lora_patch_star"],
+    ["ZOMIN28","ResNet18_Cifar10_95.46","resnet_cifar_star"],
+    ["ZOMIN28","adversarial_attack_tutorial","adv_star"]
+  ];
+
+  for (const [user,repo,id] of repos){
+    try{
+      const res = await fetch(`https://api.github.com/repos/${user}/${repo}`);
+      const data = await res.json();
+      document.getElementById(id).innerText = "⭐ " + data.stargazers_count;
+    }catch(e){}
+  }
+}
+
+loadStars();
+</script>
