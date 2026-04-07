@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Zuomin Qu (瞿左珉). I am currently a researcher at the State Key Laboratory of HVDC, China Southern Power Grid, Guangzhou. My work now focuses on LLM/VLM for power system, and smart grids.
+I am Zuomin Qu (瞿左珉). I am currently a researcher at the State Key Laboratory of HVDC, China Southern Power Grid, Guangzhou. My work now focuses on LLM/VLM and AI Infra for Power Systems, and Smart Grids.
 
 I received the M.S. degree from the School of Computer Science and Engineering, Sun Yat-sen University in 2025, and the B.S. degree from the Central South University in 2022.
 
-My research interests include Generative AI, AI security and safety, and AI for science.
+My research interests include Generative AI, AI security and safety, and AI for Science.
 
 ***
 
@@ -33,7 +33,7 @@ Experience
 
 Researcher, 2025 – Present
 * Algorithm research on scientific-computing-oriented AI large models
-* AI infrastructure for power system digital twins
+* AI infra for power system and smart grid
 
 **Ant Group**
 
@@ -44,7 +44,7 @@ Risk Control Intern, 2024
 **Guorui Digital Intelligence Technology**
 
 AI Research Intern, 2022 – 2023
-* Customized AI face generation,  fine-grained editing and fine-tuning
+* Customized AI image/video generation, fine-grained editing and fine-tuning
 * AI Security and Defense
 
 **Institute of Automation, Chinese Academy of Sciences**
