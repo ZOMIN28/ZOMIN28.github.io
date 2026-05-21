@@ -91,6 +91,8 @@ Publications
   <a href="https://ieeexplore.ieee.org/document/10458678">Paper</a> · 
   <a href="https://github.com/ZOMIN28/DF_RAP">Github</a>
   <span id="df_rap_star"></span>
+  <a href="https://github.com/ZOMIN28/OSN-transmission_mini_CelebA">Dataset</a>
+  <span id="df_rap_dataset_star"></span>
   
   </div>
 </div>
@@ -247,6 +249,7 @@ Teaching
 async function loadStars() {
   const repos = [
     ["ZOMIN28","DF_RAP","df_rap_star"],
+    ["ZOMIN28","OSN-transmission_mini_CelebA","df_rap_dataset_star"],
     ["ZOMIN28","LoRA-Patching","lora_patch_star"],
     ["ZOMIN28","ResNet18_Cifar10_95.46","resnet_cifar_star"],
     ["ZOMIN28","adversarial_attack_tutorial","adv_star"]
