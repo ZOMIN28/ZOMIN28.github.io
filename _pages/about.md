@@ -69,8 +69,8 @@ Publications
   
   <br>
   
-  <a href="https://ieeexplore.ieee.org/document/11185226">Paper</a> · 
-  <a href="https://arxiv.org/pdf/2409.13349">arXiv</a>
+  <a href="https://ieeexplore.ieee.org/document/11185226">[Paper]</a> · 
+  <a href="https://arxiv.org/pdf/2409.13349">[arXiv]</a>
   
   </div>
 </div>
@@ -88,11 +88,9 @@ Publications
   
   <br>
   
-  <a href="https://ieeexplore.ieee.org/document/10458678">Paper</a> · 
-  <a href="https://github.com/ZOMIN28/DF_RAP">Github</a>
-  <span id="df_rap_star"></span>
-  <a href="https://github.com/ZOMIN28/OSN-transmission_mini_CelebA">Dataset</a>
-  <span id="df_rap_dataset_star"></span>
+  <a href="https://ieeexplore.ieee.org/document/10458678">[Paper]</a> · 
+  <a href="https://github.com/ZOMIN28/DF_RAP">[Github]</a>
+  <a href="https://github.com/ZOMIN28/OSN-transmission_mini_CelebA">[Dataset]</a>
   
   </div>
 </div>
@@ -114,9 +112,9 @@ Publications
   
   <br>
   
-  <a href="https://ieeexplore.ieee.org/document/11298389">Paper</a> · 
-  <a href="https://arxiv.org/abs/2510.03747">arXiv</a> · 
-  <a href="https://github.com/ZOMIN28/LoRA-Patching">Github</a> <span id="lora_patch_star"></span>
+  <a href="https://ieeexplore.ieee.org/document/11298389">[Paper]</a> · 
+  <a href="https://arxiv.org/abs/2510.03747">[arXiv]</a> · 
+  <a href="https://github.com/ZOMIN28/LoRA-Patching">[Github]</a>
   
   </div>
 </div>
@@ -138,12 +136,33 @@ Publications
   
   <br>
   
-  <a href="https://www.cjig.cn/thesisDetails#10.11834/jig.230128&lang=zh">Paper</a>
+  <a href="https://www.cjig.cn/thesisDetails#10.11834/jig.230128&lang=zh">[Paper]</a>
   
   <br>
   
   2020–2024 Outstanding Paper Award of the Journal of Image and Graphics
   
+  </div>
+</div>
+
+<div class="paper">
+  <img src="/images/papers/anti.png" class="paper-img">
+  
+  <div class="paper-text">
+  
+  <b>Anti-Inpainting: A Proactive Defense against Malicious Diffusion-based Inpainters under Unknown Conditions</b>
+  
+  <br>
+  
+  Yimao Guo, <b>Zuomin Qu</b>, Wei Lu*, Xiangyang Luo
+  
+  <br>
+  
+  <i>IEEE Transactions on Dependable and Secure Computing (TDSC), 2026</i>
+  
+  <br>
+  
+  <a href="https://arxiv.org/abs/2505.13023">[arXiv]</a>
   </div>
 </div>
 
@@ -164,7 +183,7 @@ Publications
   
   <br>
   
-  <a href="https://ieeexplore.ieee.org/document/10816138">Paper</a>
+  <a href="https://ieeexplore.ieee.org/document/10816138">[Paper]</a>
   
   </div>
 </div>
@@ -186,7 +205,7 @@ Publications
   
   <br>
   
-  <a href="https://ieeexplore.ieee.org/document/10813422">Paper</a>
+  <a href="https://ieeexplore.ieee.org/document/10813422">[Paper]</a>
 
   </div>
 </div>
@@ -208,30 +227,10 @@ Publications
   
   <br>
   
-  <a href="https://yhztjs.spacejournal.cn/en/article/id/8c0add35-ed59-4e17-ab20-ee90c3b21622">paper</a>
+  <a href="https://yhztjs.spacejournal.cn/en/article/id/8c0add35-ed59-4e17-ab20-ee90c3b21622">[Paper]</a>
   </div>
 </div>
 
-<div class="paper">
-  <img src="/images/papers/anti.png" class="paper-img">
-  
-  <div class="paper-text">
-  
-  <b>Anti-Inpainting: A Proactive Defense against Malicious Diffusion-based Inpainters under Unknown Conditions</b>
-  
-  <br>
-  
-  Yimao Guo, <b>Zuomin Qu</b>, Wei Lu*, Xiangyang Luo
-  
-  <br>
-  
-  <i>arXiv, 2025</i>
-  
-  <br>
-  
-  <a href="https://arxiv.org/abs/2505.13023">arXiv</a>
-  </div>
-</div>
 
 ***
 
