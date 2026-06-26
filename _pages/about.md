@@ -13,6 +13,8 @@ I received the M.S. degree from the School of Computer Science and Engineering, 
 
 My research interests include Generative AI, AI security and safety, and AI for Science.
 
+<br><br>
+
 ***
 
 Education 
@@ -26,6 +28,7 @@ Education
 * Research on Deep Learning and AI Security
 
 ***
+<br><br>
 
 Experience
 ======
@@ -53,6 +56,7 @@ AI Research Intern, 2021 - 2022
 * Drug molecule generation with RL and few-shot learning
 
 ***
+<br><br>
 
 Publications
 ======
@@ -233,8 +237,8 @@ Publications
   </div>
 </div>
 
-
 ***
+<br><br>
 
 Services
 ======
