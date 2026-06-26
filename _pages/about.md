@@ -88,9 +88,9 @@ Publications
   
   <br>
   
-  <a href="https://ieeexplore.ieee.org/document/10458678">[Paper]</a> · 
-  <a href="https://github.com/ZOMIN28/DF_RAP">[Github]</a>
-  <a href="https://github.com/ZOMIN28/OSN-transmission_mini_CelebA">[Dataset]</a>
+  [<a href="https://ieeexplore.ieee.org/document/10458678">Paper</a>] · 
+  [<a href="https://github.com/ZOMIN28/DF_RAP">Github</a>] · 
+  [<a href="https://github.com/ZOMIN28/OSN-transmission_mini_CelebA">Dataset</a>]
   
   </div>
 </div>
@@ -112,9 +112,9 @@ Publications
   
   <br>
   
-  <a href="https://ieeexplore.ieee.org/document/11298389">[Paper]</a> · 
-  <a href="https://arxiv.org/abs/2510.03747">[arXiv]</a> · 
-  <a href="https://github.com/ZOMIN28/LoRA-Patching">[Github]</a>
+  [<a href="https://ieeexplore.ieee.org/document/11298389">Paper</a>] · 
+  [<a href="https://arxiv.org/abs/2510.03747">arXiv</a>] · 
+  [<a href="https://github.com/ZOMIN28/LoRA-Patching">Github</a>]
   
   </div>
 </div>
@@ -136,7 +136,7 @@ Publications
   
   <br>
   
-  <a href="https://www.cjig.cn/thesisDetails#10.11834/jig.230128&lang=zh">[Paper]</a>
+  [<a href="https://www.cjig.cn/thesisDetails#10.11834/jig.230128&lang=zh">Paper</a>]
   
   <br>
   
@@ -162,7 +162,8 @@ Publications
   
   <br>
   
-  <a href="https://arxiv.org/abs/2505.13023">[arXiv]</a>
+  [<a href="https://arxiv.org/abs/2505.13023">arXiv</a>]
+ 
   </div>
 </div>
 
@@ -183,7 +184,7 @@ Publications
   
   <br>
   
-  <a href="https://ieeexplore.ieee.org/document/10816138">[Paper]</a>
+  [<a href="https://ieeexplore.ieee.org/document/10816138">Paper</a>]
   
   </div>
 </div>
@@ -205,7 +206,7 @@ Publications
   
   <br>
   
-  <a href="https://ieeexplore.ieee.org/document/10813422">[Paper]</a>
+  [<a href="https://ieeexplore.ieee.org/document/10813422">Paper</a>]
 
   </div>
 </div>
@@ -227,14 +228,15 @@ Publications
   
   <br>
   
-  <a href="https://yhztjs.spacejournal.cn/en/article/id/8c0add35-ed59-4e17-ab20-ee90c3b21622">[Paper]</a>
+  [<a href="https://yhztjs.spacejournal.cn/en/article/id/8c0add35-ed59-4e17-ab20-ee90c3b21622">Paper</a>]
+  
   </div>
 </div>
 
 
 ***
 
-Teaching
+Services
 ======
 **A Tutorial of AI Image Classification**
 * This basic tutorial covers model building, dataset processing, model training, model testing, and result analysis.
