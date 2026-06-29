@@ -13,9 +13,8 @@ I received the M.S. degree from the School of Computer Science and Engineering, 
 
 My research interests include Generative AI, AI security and safety, and AI for Science.
 
-<br>
-
 ***
+<br>
 
 Education 
 ======
@@ -236,6 +235,16 @@ Publications
   
   </div>
 </div>
+
+***
+<br>
+
+Awards
+======
+* 2020–2024 Outstanding Paper Award of the Journal of Image and Graphics
+* 2022 Wondershar Scholarship
+* 2022 CSU Outstanding Graduates
+* 2019 Chen Guoda Education Foundation Scholarship
 
 ***
 <br>
