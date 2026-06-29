@@ -16,6 +16,7 @@ My research interests include Generative AI, AI security and safety, and AI for 
 <br>
 
 ***
+
 Education 
 ======
 **Sun Yat-sen University**
@@ -29,6 +30,7 @@ Education
 <br>
 
 ***
+
 Experience
 ======
 **State Key Laboratory of HVDC, China Southern Power Grid**
@@ -57,6 +59,7 @@ AI Research Intern, 2021 - 2022
 <br>
 
 ***
+
 Publications
 ======
 <div class="paper">
@@ -250,6 +253,7 @@ Awards
 <br>
 
 ***
+
 Services
 ======
 **A Tutorial of AI Image Classification**
