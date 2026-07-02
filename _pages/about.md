@@ -245,6 +245,7 @@ Publications
 
 Awards
 ======
+* 2026 Ascend AI4S Ecosystem Contribution Award of Excellence in KADC 2026
 * 2025 CSG Collective First-Class Merit
 * 2020–2024 Outstanding Paper Award of the Journal of Image and Graphics
 * 2022 Wondershar Scholarship
