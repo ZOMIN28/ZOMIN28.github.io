@@ -95,7 +95,7 @@ Publications
   <br>
   
   [<a href="https://ieeexplore.ieee.org/document/10458678">Paper</a>] · 
-  [<a href="https://github.com/ZOMIN28/DF_RAP">Github</a>] · 
+  [<a href="https://github.com/ZOMIN28/DF_RAP">Code</a>] · 
   [<a href="https://github.com/ZOMIN28/OSN-transmission_mini_CelebA">Dataset</a>]
   
   </div>
@@ -120,7 +120,7 @@ Publications
   
   [<a href="https://ieeexplore.ieee.org/document/11298389">Paper</a>] · 
   [<a href="https://arxiv.org/abs/2510.03747">arXiv</a>] · 
-  [<a href="https://github.com/ZOMIN28/LoRA-Patching">Github</a>]
+  [<a href="https://github.com/ZOMIN28/LoRA-Patching">Code</a>]
   
   </div>
 </div>
