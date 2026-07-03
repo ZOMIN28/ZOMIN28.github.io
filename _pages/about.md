@@ -167,7 +167,8 @@ Publications
   <i>IEEE Transactions on Dependable and Secure Computing (TDSC), 2026</i>
   
   <br>
-  [<a href="https://ieeexplore.ieee.org/author/792741945404543">Paper</a>]
+  
+  [<a href="https://ieeexplore.ieee.org/author/792741945404543">Paper</a>] · 
   [<a href="https://arxiv.org/abs/2505.13023">arXiv</a>]
  
   </div>
