@@ -168,7 +168,7 @@ Publications
   
   <br>
   
-  [<a href="https://ieeexplore.ieee.org/author/792741945404543">Paper</a>] · 
+  [<a href="https://ieeexplore.ieee.org/document/11592480">Paper</a>] · 
   [<a href="https://arxiv.org/abs/2505.13023">arXiv</a>]
  
   </div>
