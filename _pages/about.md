@@ -76,7 +76,7 @@ Publications
   <br>
   
   [<a href="https://ieeexplore.ieee.org/document/11185226">Paper</a>] · 
-  [<a href="https://arxiv.org/pdf/2409.13349">arXiv</a>] ·
+  [<a href="https://arxiv.org/pdf/2409.13349">arXiv</a>] · 
   [<a href="https://github.com/ZOMIN28/ID-Guard">Code</a>]
   
   </div>
