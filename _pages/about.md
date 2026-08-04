@@ -45,9 +45,9 @@ Risk Control Intern, 2024
 * Financial risk management strategy design
 * Fund management and control model development
 
-**Guorui Digital Intelligence Technology**
+**Alibaba Group**
 
-AI Research Intern, 2022 – 2023
+AI Security Research Project, 2022 – 2023
 * Customized AI image/video generation, fine-grained editing and fine-tuning
 * AI Security and Defense
 
