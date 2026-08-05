@@ -36,8 +36,8 @@ Experience
 **State Key Laboratory of HVDC, China Southern Power Grid**
 
 Researcher, 2025 – Present
-* Algorithm research on scientific-computing-oriented AI large models
-* AI infra for power system and smart grid
+* AI infra and research on scientific-computing-oriented AI large models
+* Multimodal models on Digital twins and smart grids
 
 **Ant Group**
 
@@ -49,12 +49,12 @@ Risk Control Intern, 2024
 
 AI Security Research Project, 2022 – 2023
 * Customized AI image/video generation, fine-grained editing and fine-tuning
-* AI Security and Defense
+* AI Security and proactive defense for generative models
 
 **Institute of Automation, Chinese Academy of Sciences**
 
 AI Research Intern, 2021 - 2022
-* Drug molecule generation with RL and few-shot learning
+* Drug molecule generation with reinforcement learning and few-shot learning
 
 <br>
 
