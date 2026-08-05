@@ -37,7 +37,7 @@ Experience
 
 Researcher, 2025 – Present
 * AI infra and research on scientific-computing-oriented AI large models
-* Multimodal models on Digital twins and smart grids
+* Multimodal models and adversarial learning on digital twins and smart grids
 
 **Ant Group**
 
