@@ -272,7 +272,10 @@ Services
 * IEEE Transactions on Information Forensics and Security (TIFS)
 * IEEE Transactions on Computational Social Systems (TCSS)
 * Machine Learning
+* Scientific Reports
+* Discover Computing (Information Retrieval Journal)
 * Discover Artificial Intelligence
+* Journal of Intelligent & Robotic Systems
 
 <script>
 async function loadStars() {
