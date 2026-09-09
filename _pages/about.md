@@ -260,14 +260,6 @@ Awards
 
 Services
 ======
-**A Tutorial of AI Image Classification**
-* This basic tutorial covers model building, dataset processing, model training, model testing, and result analysis.
-* [Bilibili](https://www.bilibili.com/video/BV1yT41177Lg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=caf66f8d100f1451c98c2401d8027bde) · [Github](https://github.com/ZOMIN28/ResNet18_Cifar10_95.46)<span id="resnet_cifar_star"></span>
-
-**A Tutorial of Adversarial Attacks against Deep Neural Networks**
-* A basic tutorial about adversarial attacks. Through this tutorial, you can learn: 1) the implementation of gradient-based and generation-based adversarial attacks; 2) adversarial attacks on classification models and generative models; 3) the robustness and transferability of adversarial attacks.
-* [Bilibili](https://www.bilibili.com/video/BV1C4AeePE4p/?spm_id_from=333.1387.homepage.video_card.click&vd_source=caf66f8d100f1451c98c2401d8027bde) · [Github](https://github.com/ZOMIN28/adversarial_attack_tutorial)<span id="adv_star"></span>
-
 **Technical Program Committee Member (TPC)**
 * International Conference on Multimedia Modeling (MMM)
 
@@ -277,6 +269,21 @@ Services
 * Machine Learning
 * Discover Computing (Information Retrieval Journal)
 * Journal of Intelligent & Robotic Systems
+
+<br>
+
+***
+
+Teaching
+======
+**A Tutorial of AI Image Classification**
+* This basic tutorial covers model building, dataset processing, model training, model testing, and result analysis.
+* [Bilibili](https://www.bilibili.com/video/BV1yT41177Lg/?spm_id_from=333.1387.homepage.video_card.click&vd_source=caf66f8d100f1451c98c2401d8027bde) · [Github](https://github.com/ZOMIN28/ResNet18_Cifar10_95.46)<span id="resnet_cifar_star"></span>
+
+**A Tutorial of Adversarial Attacks against Deep Neural Networks**
+* A basic tutorial about adversarial attacks. Through this tutorial, you can learn: 1) the implementation of gradient-based and generation-based adversarial attacks; 2) adversarial attacks on classification models and generative models; 3) the robustness and transferability of adversarial attacks.
+* [Bilibili](https://www.bilibili.com/video/BV1C4AeePE4p/?spm_id_from=333.1387.homepage.video_card.click&vd_source=caf66f8d100f1451c98c2401d8027bde) · [Github](https://github.com/ZOMIN28/adversarial_attack_tutorial)<span id="adv_star"></span>
+
 
 <script>
 async function loadStars() {
